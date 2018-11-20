@@ -1,5 +1,5 @@
-﻿  ClassicRPG.cpp
-c:\users\arthr\source\repos\classicrpg\classicrpg\classicrpg.cpp(81): warning C4101: 'health': unreferenced local variable
-c:\users\arthr\source\repos\classicrpg\classicrpg\classicrpg.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\arthr\source\repos\classicrpg\classicrpg\classicrpg.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+﻿  Player.cpp
+c:\users\arthr\source\repos\classicrpg\classicrpg\player.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ClassicRPG.cpp
+  Generating Code...
   ClassicRPG.vcxproj -> C:\Users\Arthr\source\repos\ClassicRPG\Debug\ClassicRPG.exe
