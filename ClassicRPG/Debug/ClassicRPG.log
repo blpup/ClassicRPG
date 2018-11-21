@@ -1,5 +1,2 @@
-﻿  Player.cpp
-c:\users\arthr\source\repos\classicrpg\classicrpg\player.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  ClassicRPG.cpp
-  Generating Code...
+﻿  Monster.cpp
   ClassicRPG.vcxproj -> C:\Users\Arthr\source\repos\ClassicRPG\Debug\ClassicRPG.exe

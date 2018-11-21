@@ -63,6 +63,7 @@ public:
 	float get_agility();
 	float get_defence();
 	float get_magicPower();
+	int get_level();
 	int get_mana();
 	float attack(float monsterHealth);
 	float defend(float monsterAttack);

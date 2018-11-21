@@ -38,6 +38,9 @@ float Player::get_magicPower() {
 int Player::get_mana() {
 	return mana;
 };
+int Player::get_level() {
+	return level;
+}
 float Player::attack(float monsterHealth) {
 	monsterHealth = monsterHealth - strength * 1.5;
 	return monsterHealth;
